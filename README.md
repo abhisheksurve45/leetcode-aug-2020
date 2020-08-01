@@ -4,7 +4,10 @@ Challenge Link : [Leetcode](https://leetcode.com/explore/challenge/card/august-l
 
 ## WEEK 1 🚧
 
-[Coming soon](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/)
+Q. [Logger Rate Limiter](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3408/) 🔏  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK1/LoggerRateLimiter.java)
+
+Q. [Detect Capital](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3409/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK1/DetectCapital.java)
+
 
 ## WEEK 2 🚧
 
@@ -21,3 +24,8 @@ Challenge Link : [Leetcode](https://leetcode.com/explore/challenge/card/august-l
 ## WEEK 5 🚧
 
 [Coming soon](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/)
+
+
+### Legends 
+
+1. 🔏 : Leetcode Premium Question

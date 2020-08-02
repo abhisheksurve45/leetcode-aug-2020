@@ -8,6 +8,8 @@ Q. [Logger Rate Limiter](https://leetcode.com/explore/challenge/card/august-leet
 
 Q. [Detect Capital](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3409/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK1/DetectCapital.java)
 
+Q. [Design HashSet](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3410/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK1/DesignHashSet.java)
+
 
 ## WEEK 2 🚧
 

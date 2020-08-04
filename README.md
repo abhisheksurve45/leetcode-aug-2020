@@ -12,6 +12,8 @@ Q. [Design HashSet](https://leetcode.com/explore/challenge/card/august-leetcodin
 
 Q. [Valid Palindrome](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3411/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK1/ValidPalindrome.java)
 
+Q. [Power of Four](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3412/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK1/PowerofFour.java)
+
 
 ## WEEK 2 🚧
 

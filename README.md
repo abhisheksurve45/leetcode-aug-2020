@@ -2,7 +2,7 @@
 
 Challenge Link : [Leetcode](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/)
 
-## WEEK 1 🚧
+## WEEK 1 ✅
 
 Q. [Logger Rate Limiter](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3408/) 🔏  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK1/LoggerRateLimiter.java)
 
@@ -22,7 +22,9 @@ Q. [Vertical Order Traversal of a Binary Tree](https://leetcode.com/explore/chal
 
 ## WEEK 2 🚧
 
-[Coming soon](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/)
+Q. [Closest Binary Search Tree Value](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3416/) 🔏  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK2/ClosestBinarySearchTreeValue.java)
+
+Q. [Path Sum III](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3417/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK2/PathSumIII.java)
 
 ## WEEK 3 🚧
 

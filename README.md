@@ -20,7 +20,7 @@ Q. [Find All Duplicates in an Array](https://leetcode.com/explore/challenge/card
 
 Q. [Vertical Order Traversal of a Binary Tree](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3415/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK1/VerticalOrderTraversalofBT.java)
 
-## WEEK 2 🚧
+## WEEK 2 ✅
 
 Q. [Closest Binary Search Tree Value](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3416/) 🔏  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK2/ClosestBinarySearchTreeValue.java)
 

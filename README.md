@@ -36,6 +36,8 @@ Q. [Pascal's Triangle II](https://leetcode.com/explore/challenge/card/august-lee
 
 Q. [Iterator for Combination](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3422/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK2/IteratorforCombination.java)
 
+Q. [Longest Palindrome](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3423/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK2/LongestPalindrome.java)
+
 ## WEEK 3 🚧
 
 [Coming soon](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/)

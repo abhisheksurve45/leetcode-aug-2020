@@ -40,7 +40,9 @@ Q. [Longest Palindrome](https://leetcode.com/explore/challenge/card/august-leetc
 
 ## WEEK 3 🚧
 
-[Coming soon](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/)
+Q. [Find Permutation](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3424/) 🔏 ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK3/FindPermutation.java)
+
+Q. [Non-overlapping Intervals](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3425/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK3/NonoverlappingIntervals.java)
 
 ## WEEK 4 🚧
 

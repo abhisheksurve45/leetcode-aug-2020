@@ -44,6 +44,8 @@ Q. [Find Permutation](https://leetcode.com/explore/challenge/card/august-leetcod
 
 Q. [Non-overlapping Intervals](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3425/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK3/NonoverlappingIntervals.java)
 
+Q. [Best Time to Buy and Sell Stock III](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3426/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK3/BestTimetoBuySellStockIII.java)
+
 ## WEEK 4 🚧
 
 [Coming soon](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/)

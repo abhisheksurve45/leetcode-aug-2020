@@ -46,6 +46,8 @@ Q. [Non-overlapping Intervals](https://leetcode.com/explore/challenge/card/augus
 
 Q. [Best Time to Buy and Sell Stock III](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3426/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK3/BestTimetoBuySellStockIII.java)
 
+Q. [Distribute Candies to People](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3427/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK3/DistributeCandiestoPeople.java)
+
 ## WEEK 4 🚧
 
 [Coming soon](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/)

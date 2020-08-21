@@ -52,6 +52,10 @@ Q. [Numbers With Same Consecutive Differences](https://leetcode.com/explore/chal
 
 Q. [Goat Latin](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3429/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK3/GoatLatin.java)
 
+Q. [Reorder List](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3430/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK3/ReorderList.java)
+
+Q. [Sort Array By Parity](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3431/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK3/SortArrayByParity.java)
+
 ## WEEK 4 🚧
 
 [Coming soon](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/)

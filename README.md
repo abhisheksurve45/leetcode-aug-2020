@@ -38,7 +38,7 @@ Q. [Iterator for Combination](https://leetcode.com/explore/challenge/card/august
 
 Q. [Longest Palindrome](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3423/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK2/LongestPalindrome.java)
 
-## WEEK 3 🚧
+## WEEK 3 ✅
 
 Q. [Find Permutation](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3424/) 🔏 ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK3/FindPermutation.java)
 

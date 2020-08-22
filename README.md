@@ -58,7 +58,9 @@ Q. [Sort Array By Parity](https://leetcode.com/explore/challenge/card/august-lee
 
 ## WEEK 4 🚧
 
-[Coming soon](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/)
+Q. [The Maze](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3432/) 🔏  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK3/TheMaze.java)
+
+Q. [Random Point in Non-overlapping Rectangles](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3433/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK3/RandomPointinNonoverlappingRectangles.java)
 
 ## WEEK 5 🚧
 

@@ -62,6 +62,8 @@ Q. [The Maze](https://leetcode.com/explore/challenge/card/august-leetcoding-chal
 
 Q. [Random Point in Non-overlapping Rectangles](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3433/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK3/RandomPointinNonoverlappingRectangles.java)
 
+Q. [Stream of Characters](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3434/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK3/StreamofCharacters.java)
+
 ## WEEK 5 🚧
 
 [Coming soon](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/)

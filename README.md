@@ -68,6 +68,8 @@ Q. [Sum of Left Leaves](https://leetcode.com/explore/challenge/card/august-leetc
 
 Q. [Minimum Cost For Tickets](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3436/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK4/MinimumCostForTickets.java)
 
+Q. [Fizz Buzz](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3437/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK4/FizzBuzz.java)
+
 ## WEEK 5 🚧
 
 [Coming soon](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/)

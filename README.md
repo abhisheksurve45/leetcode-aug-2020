@@ -56,7 +56,7 @@ Q. [Reorder List](https://leetcode.com/explore/challenge/card/august-leetcoding-
 
 Q. [Sort Array By Parity](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3431/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK3/SortArrayByParity.java)
 
-## WEEK 4 🚧
+## WEEK 4 ✅
 
 Q. [The Maze](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3432/) 🔏  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK4/TheMaze.java)
 
@@ -72,9 +72,17 @@ Q. [Fizz Buzz](https://leetcode.com/explore/challenge/card/august-leetcoding-cha
 
 Q. [Find Right Interval](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3438/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK4/FindRightInterval.java)
 
-## WEEK 5 🚧
+Q. [Implement Rand10() Using Rand7()](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3439/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK4/ImplementRand10UsingRand7.java)
 
-[Coming soon](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/)
+## WEEK 5 ✅
+
+Q. [](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/553/week-5-august-29th-august-31st/3443/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK5/.java)
+
+Q. [](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/553/week-5-august-29th-august-31st/3443/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK5/.java)
+
+Q. [](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/553/week-5-august-29th-august-31st/3443/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK5/.java)
+
+Q. [Delete Node in a BST](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/553/week-5-august-29th-august-31st/3443/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-aug-2020/blob/master/WEEK5/DeleteNodeinBST.java)
 
 
 ### Legends 
